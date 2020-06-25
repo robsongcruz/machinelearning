@@ -1,0 +1,6 @@
+{
+	"api-key": "o2nJC5zaumfTYPfZUmNW0DN5J",
+	"api-secret-key": "bWXoXUfNFtWRCHqiYEIDQRgDlzNTh21ZcXRaYdUj9TCQr9Egpz",
+	"access-token": "953111285276860419-a1oEYtwt7wtH6V4v172Bti1cdg9D0u8",
+	"access-secret-token": "VtHk1wxhb8EIuyxC4c3L639nA9tvT2E3qsiKz9pLCpLed"
+}

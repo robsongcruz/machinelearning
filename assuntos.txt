@@ -1,0 +1,1 @@
+Manipulação/criação de vídeo utilizando   Redes Geradoras Adversariais(GAN);
